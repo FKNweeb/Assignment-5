@@ -1,0 +1,19 @@
+C:\Users\yosef\Desktop\CIT Assignments\Assignment 5\SQL injection\bin\Debug\net8.0\SQL injection.exe
+C:\Users\yosef\Desktop\CIT Assignments\Assignment 5\SQL injection\bin\Debug\net8.0\SQL injection.deps.json
+C:\Users\yosef\Desktop\CIT Assignments\Assignment 5\SQL injection\bin\Debug\net8.0\SQL injection.runtimeconfig.json
+C:\Users\yosef\Desktop\CIT Assignments\Assignment 5\SQL injection\bin\Debug\net8.0\SQL injection.dll
+C:\Users\yosef\Desktop\CIT Assignments\Assignment 5\SQL injection\bin\Debug\net8.0\SQL injection.pdb
+C:\Users\yosef\Desktop\CIT Assignments\Assignment 5\SQL injection\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yosef\Desktop\CIT Assignments\Assignment 5\SQL injection\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yosef\Desktop\CIT Assignments\Assignment 5\SQL injection\bin\Debug\net8.0\Npgsql.dll
+C:\Users\yosef\Desktop\CIT Assignments\Assignment 5\SQL injection\obj\Debug\net8.0\SQL injection.csproj.AssemblyReference.cache
+C:\Users\yosef\Desktop\CIT Assignments\Assignment 5\SQL injection\obj\Debug\net8.0\SQL injection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yosef\Desktop\CIT Assignments\Assignment 5\SQL injection\obj\Debug\net8.0\SQL injection.AssemblyInfoInputs.cache
+C:\Users\yosef\Desktop\CIT Assignments\Assignment 5\SQL injection\obj\Debug\net8.0\SQL injection.AssemblyInfo.cs
+C:\Users\yosef\Desktop\CIT Assignments\Assignment 5\SQL injection\obj\Debug\net8.0\SQL injection.csproj.CoreCompileInputs.cache
+C:\Users\yosef\Desktop\CIT Assignments\Assignment 5\SQL injection\obj\Debug\net8.0\SQL inje.A07E2782.Up2Date
+C:\Users\yosef\Desktop\CIT Assignments\Assignment 5\SQL injection\obj\Debug\net8.0\SQL injection.dll
+C:\Users\yosef\Desktop\CIT Assignments\Assignment 5\SQL injection\obj\Debug\net8.0\refint\SQL injection.dll
+C:\Users\yosef\Desktop\CIT Assignments\Assignment 5\SQL injection\obj\Debug\net8.0\SQL injection.pdb
+C:\Users\yosef\Desktop\CIT Assignments\Assignment 5\SQL injection\obj\Debug\net8.0\SQL injection.genruntimeconfig.cache
+C:\Users\yosef\Desktop\CIT Assignments\Assignment 5\SQL injection\obj\Debug\net8.0\ref\SQL injection.dll
