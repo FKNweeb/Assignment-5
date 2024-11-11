@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL injection", "SQL injection\SQL injection.csproj", "{4039D47A-B60E-435B-B629-FDB9E5E74E62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password Authentication", "Password Authentication\Password Authentication.csproj", "{3C82F1C8-CD5A-459A-862D-2D46CD76F114}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{4039D47A-B60E-435B-B629-FDB9E5E74E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4039D47A-B60E-435B-B629-FDB9E5E74E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4039D47A-B60E-435B-B629-FDB9E5E74E62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C82F1C8-CD5A-459A-862D-2D46CD76F114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C82F1C8-CD5A-459A-862D-2D46CD76F114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C82F1C8-CD5A-459A-862D-2D46CD76F114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C82F1C8-CD5A-459A-862D-2D46CD76F114}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
